@@ -1,0 +1,13 @@
+{
+  "name": "MQTTWiFiManager",
+  "keywords": "wifi, wi-fi, mqtt",
+  "description": "ESP8266 MQTT + WiFi Connection Manager with Web Configuration Portal",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/vaibhavkite3/MQTTWiFiManager.git"
+  },
+  "frameworks": "arduino",
+  "platforms": "espressif8266",
+  "version": "0.1"
+}
